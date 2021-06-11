@@ -1,3 +1,5 @@
+package sk.durovic.HomeWork;
+
 import java.util.Stack;
 
 public class TaskOne {
